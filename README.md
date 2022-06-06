@@ -1,4 +1,4 @@
-### Hi there, I'm Raphael Ferreira!
+## Hi there, I'm Raphael Ferreira!
 
 - 💬 Studying Systems Analysis and Development at Centro Universitário Una, knowledge in Web Development (HTML & CSS) and Big Data (Data Analysis with Power BI and Python).
 

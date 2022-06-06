@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Eu sou o Raphael e esse é meu Perfil!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +12,5 @@
 
 <div align="center">
   <a href="https://github.com/BaYega-RFA">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaYega-RFA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaYega-RFA&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaYega-RFA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaYega-RFA&layout=compact&langs_count=7&theme=dark"/>

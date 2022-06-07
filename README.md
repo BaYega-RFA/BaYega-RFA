@@ -6,6 +6,7 @@
 - ⚡ Lots of curiosity and willingness to learn! 
 
 <div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaYega-RFA&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img align="center" width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=BaYega-RFA&theme&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="BaYega-RFA" />
 </p>
 </div>

@@ -5,6 +5,11 @@
 - 🔗 Recently i started learning Java in college and I'm really loving it! (Stay in tune for new repos and projects soon)
 - ⚡ Lots of curiosity and willingness to learn! 
 
+<div>
+  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyMarq&theme&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="RickyMarq" />
+</p>
+</div>
+
 ###
 
 </div>

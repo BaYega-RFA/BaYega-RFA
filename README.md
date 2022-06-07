@@ -4,11 +4,6 @@
 
 - 🔗 Recently i started learning Java in college and I'm really loving it! (Stay in tune for new repos and projects soon)
 - ⚡ Lots of curiosity and willingness to learn!
-
-<div align="center">
-  <a href="https://github.com/BaYega-RFA">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaYega-RFA&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaYega-RFA&layout=compact&langs_count=7&theme=merko"/>
     
 ### 
     

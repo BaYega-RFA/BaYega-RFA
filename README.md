@@ -3,10 +3,9 @@
 - 💬 Studying Systems Analysis and Development at Centro Universitário Una, knowledge in Web Development (HTML & CSS) and Big Data (Data Analysis with Power BI and Python).
 
 - 🔗 Recently i started learning Java in college and I'm really loving it! (Stay in tune for new repos and projects soon)
-- ⚡ Lots of curiosity and willingness to learn!
-    
-### 
-    
+- ⚡ Lots of curiosity and willingness to learn! 
+
+##    
  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 

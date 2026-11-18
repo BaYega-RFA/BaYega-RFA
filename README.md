@@ -1,7 +1,5 @@
 ﻿<div align="center">
 
-<img src="https://raw.githubusercontent.com/BaYega-RFA/portfolio/main/assets/foto-raphael.webp" alt="Retrato de Raphael Ferreira Alves" width="150" height="150" style="border-radius:50%;object-fit:cover">
-
 # Raphael Ferreira Alves 👋
 
 **Infraestrutura & Segurança com IA operacional**

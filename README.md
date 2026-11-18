@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://raw.githubusercontent.com/BaYega-RFA/portfolio/main/assets/foto-raphael.webp" alt="Retrato de Raphael Ferreira Alves" width="150" height="150" style="border-radius:50%;object-fit:cover">
 
@@ -40,7 +40,7 @@ Analista de Infraestrutura e Suporte N3, em transição consolidada para Seguran
 | 🧠 Engenharia de contexto | Obsidian como fonte única de memória e padrões portáteis entre IAs |
 | 💬 Mensageria & Integrações | Gupshup/WhatsApp, n8n, webhooks assinados, Chatwoot |
 
-## 🔧 Trampo concreto
+## 🔧 Projetos & entregas
 
 - **Ponte de mensageria conversacional** — API de WhatsApp integrada à plataforma de atendimento, templates aprovados, validação *fail-closed*, deploy via git worktree com rollback.
 - **Cofre de segredos com injeção em memória** — credenciais cifradas com `age`, consumidas via systemd em tmpfs (0700), sem texto puro em disco.
